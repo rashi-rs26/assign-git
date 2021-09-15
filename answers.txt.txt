@@ -22,7 +22,6 @@ For a Java file, it should include the following-
 *.tar.gz
 *.rar
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
 • What does fast-forward in Git mean?
@@ -32,4 +31,5 @@ In certain situations, Git does a fast forward when you merge a branch that is a
 We should have different branches so that multiple people can work on the code and test it simultaneously without interfering with the main/master branch.
 
 • In a project how many remote Git repositories do you usually have?
-In a project we usually have as many remote git repositories as the number of team members. We can have unlimited git repositories in general.
+In a project we usually have as many remote git repositories as the number of team members. 
+We can have unlimited git repositories in general.
