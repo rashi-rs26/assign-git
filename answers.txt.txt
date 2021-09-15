@@ -24,11 +24,11 @@ For a Java file, it should include the following-
 
 hs_err_pid*
 
-• What does fast-forward in Git mean?
+• What does fast-forward in Git mean ?
 In certain situations, Git does a fast forward when you merge a branch that is ahead of your checked-out branch.
 
 • Why should you have different branches?
 We should have different branches so that multiple people can work on the code and test it simultaneously without interfering with the main/master branch.
 
 • In a project how many remote Git repositories do you usually have?
-In a project we have one remote git repository.
+In a project we usually have one remote git repository.
